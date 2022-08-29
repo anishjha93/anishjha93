@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - [Senior MTS (Qapitol)](https://www.qapitol.in/) - (Apr'2019-Present)
 
 ![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishjha93&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![github](https://github-readme-streak-stats.herokuapp.com/?user=anishjha93&theme=github-dark-blue&hide_border=true)&nbsp;&nbsp;
 ![Anish's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishjha93&layout=compact&langs_count=8&hide_border=true)
 <br />
 
